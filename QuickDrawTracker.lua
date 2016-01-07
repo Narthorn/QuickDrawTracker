@@ -1,6 +1,7 @@
 -----------------------------------------------------------------------------------------------------
 -- QuickDrawTracker
---- © 2015 Vim Exe @ Jabbit (vicious owes me a hundred hookers)
+--- © 2015 Vim Exe @ Jabbit <narthorn@gmail.com>
+--- Vicious owes me a hundred hookers.
 --
 --- QuickDrawTracker is free software, all files licensed under the GPLv3. See LICENSE for details.
 
